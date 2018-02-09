@@ -5,9 +5,9 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styles: ['' +
-  '.online{' +
-  'color: white;' +
-  '}'
+    '.online{' +
+    'color: white;' +
+    '}'
   ]
 })
 export class AppComponent {
